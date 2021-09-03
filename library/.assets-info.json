@@ -1,0 +1,56 @@
+{
+  "/Users/cocos/MindYourStep/assets/Scenes.meta": {
+    "time": 1630037906870.3716
+  },
+  "/Users/cocos/MindYourStep/assets/Scenes": {
+    "time": 1630038834376.8633,
+    "uuid": "dd414c70-63e9-4f6e-bbd7-6ce45dd7f0f4",
+    "missing": false
+  },
+  "/Users/cocos/MindYourStep/assets/Scenes/Main.scene.meta": {
+    "time": 1630037987758.1719
+  },
+  "/Users/cocos/MindYourStep/assets/Scenes/Main.scene": {
+    "time": 1630069493086.9182,
+    "uuid": "1484ad4b-79ac-40a1-9322-24610b2a29de",
+    "missing": false
+  },
+  "/Users/cocos/MindYourStep/assets/Scenes/Scripts.meta": {
+    "time": 1630038802769.6287
+  },
+  "/Users/cocos/MindYourStep/assets/Scripts.meta": {
+    "time": 1630038870191.0144
+  },
+  "/Users/cocos/MindYourStep/assets/Scripts": {
+    "time": 1630040305358.7588,
+    "uuid": "a8bc29dd-086b-433b-b48a-ec020b210645",
+    "missing": false
+  },
+  "/Users/cocos/MindYourStep/assets/Scripts/Player.ts.meta": {
+    "time": 1630038926527.748
+  },
+  "/Users/cocos/MindYourStep/assets/Scripts/PlayerController.ts.meta": {
+    "time": 1630040305359.724
+  },
+  "/Users/cocos/MindYourStep/assets/Scripts/PlayerController.ts": {
+    "time": 1630060493492.7988,
+    "uuid": "d3437242-f10e-40b8-88d8-b876bbfa838f",
+    "missing": false
+  },
+  "/Users/cocos/MindYourStep/assets/Images.meta": {
+    "time": 1630482498666.1338
+  },
+  "/Users/cocos/MindYourStep/assets/Images": {
+    "time": 1630482515024.3486,
+    "uuid": "72df1b1e-fb70-4278-8bd0-4c351a892db0",
+    "missing": false
+  },
+  "/Users/cocos/MindYourStep/assets/Images/any.jpeg.meta": {
+    "time": 1630482515029.6953
+  },
+  "/Users/cocos/MindYourStep/assets/Images/any.jpeg": {
+    "time": 1630482515023.6357,
+    "uuid": "a17c310f-442d-4e75-9e7c-3ee9ee681026",
+    "missing": false
+  }
+}

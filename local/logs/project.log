@@ -1,0 +1,19 @@
+2021-09-02 16:19:27-log: [Package] menu@1.0.0 enable
+2021-09-02 16:19:27-log: [Package] profile@1.0.0 enable
+2021-09-02 16:19:27-log: [Package] messages@1.0.0 enable
+2021-09-02 16:19:27-log: [Package] program@1.0.0 enable
+2021-09-02 16:19:27-log: [Package] ui-kit@1.0.0 enable
+2021-09-02 16:19:27-log: [Package] device@1.0.1 enable
+2021-09-02 16:19:27-log: [Package] tester@1.0.0 enable
+2021-09-02 16:19:27-log: Setup mods mgr.: 261.622ms
+2021-09-02 16:19:27-log: [Package] preferences@1.0.0 enable
+2021-09-02 16:19:30-log: [Package] programming@1.0.0 enable
+2021-09-02 16:19:27-log: [Package] engine@1.0.5 enable
+2021-09-02 16:19:30-log: [Package] asset-db@1.0.0 enable
+2021-09-02 16:19:31-log: [Package] console@1.0.0 enable
+2021-09-02 16:19:31-log: [Package] scene@1.0.0 enable
+2021-09-02 16:19:31-log: [Package] project@1.0.1 enable
+2021-09-02 16:19:31-log: [Package] about@1.0.0 enable
+2021-09-02 16:19:31-log: [Package] server@1.0.0 enable
+2021-09-02 16:19:31-warn: Server: Port 7456 is occupied
+2021-09-02 16:19:31-log: [Package] utils@1.0.0 enable
